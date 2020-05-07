@@ -1,1 +1,2 @@
 # Class2
+Test
